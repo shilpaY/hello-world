@@ -1,0 +1,1 @@
+Test for creating a file in command line
